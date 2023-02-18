@@ -443,7 +443,6 @@ public class GCYSFirstDegreeMaterials {
                 .iconSet(MaterialIconSet.DIAMOND)
                 .flags(GENERATE_PLATE, DISABLE_DECOMPOSITION, CRYSTALLIZABLE, FLAMMABLE, EXPLOSIVE, DISABLE_CRYSTALLIZATION) // to disable implosion recipes
                 .components(Boron, 1, Nitrogen, 1)
-                .toolStats(14.0F, 9.0F, 12400, 15)
                 .build()
                 .setFormula("c-BN", true);
 
